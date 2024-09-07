@@ -72,13 +72,7 @@ The **Hostel Management System** is a comprehensive Java-based application desig
     
     * Download and include the required JAR files in your project's classpath. Add them to the `lib` directory of your project and update the build path in your IDE.
 
-3. **Compile the Project**:
-    
-    * Use your IDE or a build tool (e.g., Maven, Gradle) to compile the project.
 
-4. **Run the Application**:
-    
-    * Start the Hostel Management System GUI through your IDE or by running the compiled JAR file.
 
 ## Usage 📋
 
