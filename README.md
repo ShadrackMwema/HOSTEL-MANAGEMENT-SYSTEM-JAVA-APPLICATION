@@ -3,11 +3,12 @@
 ## Overview 🌟
 
 The **Hostel Management System** is a comprehensive Java-based application designed to streamline hostel operations through a user-friendly graphical interface. Utilizing Object-Oriented Programming (OOP) principles and MySQL for data management, this system makes managing hostel records, room allocations, and tenant information efficient and straightforward.
+
+![Screenshot from 2023-12-17 17-56-49](https://github.com/user-attachments/assets/236fcc54-fcbd-4921-8a4d-4e05435b81b9)
+![Screenshot from 2023-12-17 17-55-26](https://github.com/user-attachments/assets/f91ecd40-7301-403b-820b-04b7988045f6)
 ![Screenshot from 2023-12-17 18-00-57](https://github.com/user-attachments/assets/ee5171bd-52b3-42a5-8fa5-a232a2f15b2b)
 ![Screenshot from 2023-12-17 17-59-35](https://github.com/user-attachments/assets/bafed8ff-5233-4ade-a339-fae66d843f61)
 ![Screenshot from 2023-12-17 17-57-40](https://github.com/user-attachments/assets/4ba9b298-1de2-446d-8f77-a31409f4b9a5)
-![Screenshot from 2023-12-17 17-56-49](https://github.com/user-attachments/assets/236fcc54-fcbd-4921-8a4d-4e05435b81b9)
-![Screenshot from 2023-12-17 17-55-26](https://github.com/user-attachments/assets/f91ecd40-7301-403b-820b-04b7988045f6)
 
 ## Features 🚀
 
