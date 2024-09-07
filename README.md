@@ -99,4 +99,4 @@ If you wish to contribute or modify the project:
 This project is licensed under the MIT License 
 ## Contact 📬
 
-For any questions or issues, please contact [your.email@example.com](mailto:mutinda.shadrack20.com) or open an issue in the repository.
+For any questions or issues, please contact [mutinda.shadrack20@gmail.com](mailto:mutinda.shadrack20@gmail.com) or open an issue in the repository.
